@@ -1,1 +1,7 @@
-here1
+{
+  "version": "1.0.0",
+  "lib_url": "https://github.com/MEMEKaja/UpdatePUBG/releases/download/01/audio.bin",
+  "size": 2206064,
+  "sha256": "99db08b8be2f818d87110666e316b221eda6fcf8c0ac40529ff896b41446495a",
+  "min_app_version": 1
+}
